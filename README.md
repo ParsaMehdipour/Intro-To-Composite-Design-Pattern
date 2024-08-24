@@ -3,10 +3,10 @@
 Composite is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.
 Composite became a pretty popular solution for the most problems that require building a tree structure.
 
-
+</br>
 
 <p align="center">
-  <img src="hhttps://github.com/user-attachments/assets/ac2a2323-5701-4ad9-99a2-b559da7b2a80" width="800">
+  <img src="https://github.com/user-attachments/assets/54f76aeb-c9db-42cf-8095-cfa96d2e1763" width="800">
 </p>
 
 
