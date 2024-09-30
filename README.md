@@ -17,3 +17,6 @@ Composite became a pretty popular solution for the most problems that require bu
 3. The Container (aka composite) is an element that has sub-elements: leaves or other containers. A container doesn’t know the concrete classes of its children. It works with all sub-elements only via the component interface. Upon receiving a request, a container delegates the work to its sub-elements, processes intermediate results and then returns the final result to the client.
 
 4. The Client works with all elements through the component interface. As a result, the client can work in the same way with both simple or complex elements of the tree.
+
+Image and Description source: Dive Into DESIGN PATTERNS by Alexander Shvets <br/>
+Link to the book : https://refactoring.guru/design-patterns/book
